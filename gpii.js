@@ -21,3 +21,5 @@ var fluid = require("./index.js")
      gpii = fluid.registerNamespace("gpii");
 
 gpii.start();
+
+fluid.log("HELLO TESTING TESTING");
